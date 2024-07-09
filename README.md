@@ -1,7 +1,7 @@
 # To-Do List App - Logcomex Front-End Developer Senior Test
 
 ## Introdução
-Bem-vindo ao teste para a vaga de Desenvolvedor Front-End Sênior! Este teste foi criado para avaliar suas habilidades em Vue.js e TypeScript através da criação de uma aplicação de gerenciamento de tarefas (To-Do List).
+Este teste foi criado para avaliar suas habilidades em Vue.js e TypeScript através da criação de uma aplicação de gerenciamento de tarefas (To-Do List).
 
 ## Ambiente de Desenvolvimento
 - **Framework:** Vue.js (v3+)
