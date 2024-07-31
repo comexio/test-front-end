@@ -29,6 +29,7 @@ O candidato deve criar uma aplicação de gerenciamento de tarefas (To-Do List),
 - Escrever alguns testes unitários com Jest.
 
 ## Entrega
+- O projeto deve ser feito com Docker
 - O código deve estar disponível em um repositório Git (GitHub, GitLab, etc.).
 - Incluir instruções claras para instalação e execução do projeto.
 - Explicar brevemente as decisões técnicas e a estrutura do projeto em um arquivo README.md.
